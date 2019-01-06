@@ -1,32 +1,32 @@
-<html>
+﻿<html>
 <head>
-<title>Page.1  �i�饻�F�ʭ}�h�������𲤡j���Y���b�a�H����10�j�W���I</title>
+<title>Page.1  【日本東京迪士尼美食攻略】必吃的在地人推薦10大名店！</title>
 </head>
 
 
-<h5><b><marquee behavior="aiternate">�]�\�T�A �f�ѥ�90534233</marquee></b></h5>
+<h5><b><marquee behavior="aiternate">夜餐三乙 呂天玉90534233</marquee></b></h5>
 <body background="008.jpg">
 
 <center><img src ="image/011.jpg" height="300"  width="400" > 
 
 
-<font face=�з���">
-<h5><center><i>�~�[�۷��i�R�������I�u�̩_�P��v</i><br>
-����h�֮ɳ��|�Q���U�ӦY�Ӳ����a�I�b�̨ά����P�椽�q����~�|��i�R���̩_�y���P��<br>
-�u�̩_�P��v�����쬰410�餸~�A�򥻤f�����۷��}�ߡB���&�d�h�F��B���J�O��A<br>
-�H�۩u�`�ܤƤ]�|�����w�f���A�u���|���H�ܵS�ݩO�I</center></h5><p>
+<font face=標楷體">
+<h5><center><i>外觀相當可愛的美食！「米奇鬆餅」</i><br>
+走到疲累時都會想坐下來吃個甜食吧！在最佳美國鬆餅公司中能品嚐到可愛的米奇臉型鬆餅<br>
+「米奇鬆餅」的價位為410日元~，基本口味有著楓糖漿、草莓&卡士達醬、巧克力醬，<br>
+隨著季節變化也會有限定口味，真的會讓人很猶豫呢！</center></h5><p>
 
 <hr  color="#ff8000">
 
 <center><img src ="image/012.jpg" height="300"  width="400">
 
-<font face=�з���">
-<h5><center>���q���I���}�h���ֶ���ˬ����I�u�̩_�y���~���v<br>
-<i>��Y��H�̩_�y���ѥ]�Ұ����~�������a�N�O����ֶ�R�x�\�U</i><br>
-�u�̩_�y���~���v��3�����A���O���_�q�P�~���ƪ��_�q&���׺~���F</i><br>
-������h�����׺~���F���J�~����&���׺~���C<br>
-���I��600�餸~�A�̱��˪��������P���ƪ�980�餸�E��M�\<br>
-�Q�ӭӥ��q���I���t���ɽФ@�w�n�ӫ~�|�u�̩_�y���~���v�I</center></h5><p>
+<font face=標楷體">
+<h5><center>份量滿點的迪士尼樂園推薦美食！「米奇造型漢堡」<br>
+<i>能吃到以米奇造型麵包所做的漢堡的店家就是明日樂園舞台餐廳</i><br>
+「米奇造型漢堡」有3種類，分別為起司與漢堡排的起司&牛肉漢堡；</i><br>
+蔬菜較多的雞肉漢堡；雞蛋漢堡排&牛肉漢堡。<br>
+單點為600日元~，最推薦附有薯條與飲料的980日元划算套餐<br>
+想來個份量滿點的速食時請一定要來品嚐「米奇造型漢堡」！</center></h5><p>
 
 <hr  color="#ff8000">
 
@@ -34,23 +34,23 @@
 
 
 
-<font face=�з���">
-<h5><center>�b�}�h���ֶ餺�~�|�饻�Ʋz�I�u���إq�\���v<br>
-<i>�_�N�\�U�i�O�}�h�����ߤ@�@���M���M����</i><br>
-�Q��󿯡B�Ѱ�ù���Ϊ��W�Q�s�ѵ��򥻪��M��menu�@���ѥ��C</i><br>
-�䤤�S�O�n���˪���1980�餸�A���C���B�ɦ׻P�D���Z�Ҳզ����u���إq�\���v<br>
-���N�C�����̩_���Ϊ��A�O�@�D��j�����֪����ةM����</center></h5><p>
+<font face=標楷體">
+<h5><center>在迪士尼樂園內品嚐日本料理！「散壽司蓋飯」<br>
+<i>北齋餐廳可是迪士尼內唯一一間和食專門店</i><br>
+松花堂膳、天婦羅膳或狐狸烏龍麵等基本的和食menu一應俱全。</i><br>
+其中特別要推薦的為1980日元，由鮪魚、蟹肉與鮭魚卵所組成的「散壽司蓋飯」<br>
+炙燒鮪魚為米奇的形狀，是一道能大飽眼福的豪華和食膳</center></h5><p>
 
 
 
 
 
 
-<h5><b><marquee behavior="aiternate">�]�\�T�A �f�ѥ�90534233</marquee></b></h5>
+<h5><b><marquee behavior="aiternate">夜餐三乙 呂天玉90534233</marquee></b></h5>
 
-<h5><a href="2nd.html">�ĤG��</h5></a>
-<h5><a href="3rd.html">�ĤT��</h5></a>
-<h5><a href="4th.html">�ĥ|��</h5></a>
+<h5><a href="2nd.html">第二頁</h5></a>
+<h5><a href="3rd.html">第三頁</h5></a>
+<h5><a href="4th.html">第四頁</h5></a>
 
 
 
